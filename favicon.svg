@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="30" viewBox="-4 0 110 95" fill="none">
+<style>
+  path {
+    fill: hsl(200 7% 8.6%);
+    stroke: hsl(200 7% 8.6%);
+    stroke-width: 2px;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    path {
+      fill: hsl(240 3% 93%);
+      stroke: hsl(240 3% 93%);
+    }
+  }
+</style>
+<path d="m31.665 64.866 36.668-21.975 15 8.922v18.178l-15 8.917-15-8.917V59.655l-6.666 3.993v10.133l21.666 12.885L90 73.781V48.022L68.333 35.137 31.665 57.109z" />
+<path d="M31.665 57.109 16.667 48.19V30.009l14.998-8.919 15.002 8.919v10.34l6.666-3.995V26.217L31.665 13.334 10 26.217v25.766l21.665 12.883z" />
+</svg>
